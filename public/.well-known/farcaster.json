@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "ImpactAI",
+    "subtitle": "Built with Zara",
+    "description": "ImpactAI is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://074c4d6a18834392b423da0b695bccc6-93hj.vercel.app",
+    "splashImageUrl": "https://074c4d6a18834392b423da0b695bccc6-93hj.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://074c4d6a18834392b423da0b695bccc6-93hj.vercel.app/image.png",
+    "tagline": "ImpactAI",
+    "screenshotUrls": [
+      "https://074c4d6a18834392b423da0b695bccc6-93hj.vercel.app/screenshot.png",
+      "https://074c4d6a18834392b423da0b695bccc6-93hj.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://074c4d6a18834392b423da0b695bccc6-93hj.vercel.app/api/webhook"
+  }
+}
